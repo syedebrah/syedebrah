@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SYED%20EBRAHIM%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Gold%20Medalist&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Data+Engineer+%26+GenAI+Specialist;Gold+Medalist+%7C+BCA+Data+Science+(9.5%2F10);LLM+Fine-tuning+%7C+RAG+%7C+LangChain+Expert;Building+Intelligent+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Data+Engineer+%26+GenAI+Specialist;Gold+Medalist+%7C+BCA+Data+Science+(9.5%2F10);LLM+Fine-tuning+%7C+RAG+%7C+LangChain+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -123,7 +123,7 @@ Jan 2024 | Chennai, TN
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-0h00000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Apps-FF6B6B?style=for-the-badge)
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-7B2FBE?style=for-the-badge)
 ![Unsloth](https://img.shields.io/badge/Unsloth_AI-orange?style=for-the-badge)

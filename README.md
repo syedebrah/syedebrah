@@ -34,7 +34,7 @@ class SyedEbrahimJ:
                           "Congruent Solutions", "Amphenol Omni-Connect"]
         self.specializations = ["RAG Applications", "LLM/SLM Fine-tuning",
                                "GenAI Frameworks", "Real-time AI Systems"]
-        self.languages_spoken = ["Python", "SQL", "HTML", "CSS", "JavaScript"]
+        self.programming_languages_known = ["Python", "SQL", "HTML", "CSS", "JavaScript"]
         self.frameworks = ["LangChain", "Unsloth AI", "Streamlit", "FastAPI"]
         self.currently_learning = "Advanced AI Agents and Multi-Modal LLMs"
 
